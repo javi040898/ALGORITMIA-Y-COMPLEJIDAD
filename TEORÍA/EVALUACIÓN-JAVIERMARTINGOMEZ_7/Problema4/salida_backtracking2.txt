@@ -1,0 +1,22 @@
+Gira a la derecha desde la posicion 28 hasta la 27
+Va recto desde la posicion 18 hasta la 28
+Gira a la derecha desde la posicion 08 hasta la 18
+Va recto desde la posicion 07 hasta la 08
+Va recto desde la posicion 06 hasta la 07
+Va recto desde la posicion 05 hasta la 06
+Va recto desde la posicion 04 hasta la 05
+Va recto desde la posicion 03 hasta la 04
+Va recto desde la posicion 02 hasta la 03
+Va recto desde la posicion 01 hasta la 02
+Gira a la derecha desde la posicion 00 hasta la 01
+Va recto desde la posicion 10 hasta la 00
+Va recto desde la posicion 20 hasta la 10
+Gira a la derecha desde la posicion 30 hasta la 20
+Va recto desde la posicion 31 hasta la 30
+Va recto desde la posicion 32 hasta la 31
+Va recto desde la posicion 33 hasta la 32
+Va recto desde la posicion 34 hasta la 33
+Va recto desde la posicion 35 hasta la 34
+Va recto desde la posicion 36 hasta la 35
+Empieza en la posicion: 36
+Solucion encontrada

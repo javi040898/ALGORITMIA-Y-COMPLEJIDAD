@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df4f8587-120e-40d9-bf9b-3fc2fe99ad25" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1afuc3wpWe0bzOxC9IXAUR1WuaU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/entrega5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Javier\Desktop\INFORMATICA\ALGORITMIA Y COMPLEJIDAD\laboratorio\entrega4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Ejercicio7Tema4">
+    <configuration name="Ejercicio4Tema4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="laboratorio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/entrega4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/entrega4/Ejercicio4Tema4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ejercicio7Tema4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="laboratorio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/entrega4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/entrega4/Ejercicio7Tema4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Ejercicio7Tema4" />
+        <item itemvalue="Python.Ejercicio4Tema4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df4f8587-120e-40d9-bf9b-3fc2fe99ad25" name="Default Changelist" comment="" />
+      <created>1587139044288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587139044288</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="776" y="410" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1587568432768">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="776" y="410" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587568432768" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1588007869076">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588007869076" />
+    <state width="1899" height="598" key="GridCell.Tab.0.bottom" timestamp="1587983195037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="598" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587983195037" />
+    <state width="1899" height="598" key="GridCell.Tab.0.center" timestamp="1587983195037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="598" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587983195037" />
+    <state width="1899" height="598" key="GridCell.Tab.0.left" timestamp="1587983195036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="598" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587983195036" />
+    <state width="1899" height="598" key="GridCell.Tab.0.right" timestamp="1587983195037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="598" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587983195037" />
+    <state width="1899" height="347" key="GridCell.Tab.1.bottom" timestamp="1587574792567">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587574792567" />
+    <state width="1899" height="347" key="GridCell.Tab.1.center" timestamp="1587574792567">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587574792567" />
+    <state width="1899" height="347" key="GridCell.Tab.1.left" timestamp="1587574792567">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587574792567" />
+    <state width="1899" height="347" key="GridCell.Tab.1.right" timestamp="1587574792567">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587574792567" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1587196652948">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587196652948" />
+    <state x="552" y="179" key="scopes" timestamp="1587206979599">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="scopes/0.0.1920.1040@0.0.1920.1040" timestamp="1587206979599" />
+  </component>
+</project>

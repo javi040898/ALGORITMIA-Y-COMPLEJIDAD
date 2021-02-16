@@ -1,0 +1,7 @@
+Va recto desde la posicion 11 hasta la 01
+Va recto desde la posicion 21 hasta la 11
+Va recto desde la posicion 31 hasta la 21
+Gira a la derecha desde la posicion 41 hasta la 31
+Va recto desde la posicion 42 hasta la 41
+Empieza en la posicion: 42
+Solucion encontrada

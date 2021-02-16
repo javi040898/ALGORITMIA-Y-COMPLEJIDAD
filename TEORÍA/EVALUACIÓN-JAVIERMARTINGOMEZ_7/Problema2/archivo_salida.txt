@@ -1,0 +1,68 @@
+Lista inicial: [6.1, 5.6, 7.0, 8.8, 7.0, 5.0, 5.0, 7.5, 6.0, 6.1, 6.5, 6.0, 6.6, 5.1, 5.4, 7.0, 7.0, 6.6, 6.1, 5.7, 6.5, 5.6, 5.2, 5.4, 6.1, 9.0, 7.0]
+La longitud de la lista no es potencia de 2 por lo que annadimos ceros hasta que sea potencia de 2. Despues hacemos la suma con dyv de la lista con los ceros y lo dividimos por la longitud de la lista inicial
+Annadimos ceros a la lista y queda: [6.1, 5.6, 7.0, 8.8, 7.0, 5.0, 5.0, 7.5, 6.0, 6.1, 6.5, 6.0, 6.6, 5.1, 5.4, 7.0, 7.0, 6.6, 6.1, 5.7, 6.5, 5.6, 5.2, 5.4, 6.1, 9.0, 7.0, 0, 0, 0, 0, 0]
+Suma de mitad izquierda: 6.1
+Suma de mitad derecha: 5.6
+Suma de mitad izquierda: 11.7
+Suma de mitad izquierda: 7.0
+Suma de mitad derecha: 8.8
+Suma de mitad derecha: 15.8
+Suma de mitad izquierda: 27.5
+Suma de mitad izquierda: 7.0
+Suma de mitad derecha: 5.0
+Suma de mitad izquierda: 12.0
+Suma de mitad izquierda: 5.0
+Suma de mitad derecha: 7.5
+Suma de mitad derecha: 12.5
+Suma de mitad derecha: 24.5
+Suma de mitad izquierda: 52.0
+Suma de mitad izquierda: 6.0
+Suma de mitad derecha: 6.1
+Suma de mitad izquierda: 12.1
+Suma de mitad izquierda: 6.5
+Suma de mitad derecha: 6.0
+Suma de mitad derecha: 12.5
+Suma de mitad izquierda: 24.6
+Suma de mitad izquierda: 6.6
+Suma de mitad derecha: 5.1
+Suma de mitad izquierda: 11.7
+Suma de mitad izquierda: 5.4
+Suma de mitad derecha: 7.0
+Suma de mitad derecha: 12.4
+Suma de mitad derecha: 24.1
+Suma de mitad derecha: 48.7
+Suma de mitad izquierda: 100.7
+Suma de mitad izquierda: 7.0
+Suma de mitad derecha: 6.6
+Suma de mitad izquierda: 13.6
+Suma de mitad izquierda: 6.1
+Suma de mitad derecha: 5.7
+Suma de mitad derecha: 11.8
+Suma de mitad izquierda: 25.4
+Suma de mitad izquierda: 6.5
+Suma de mitad derecha: 5.6
+Suma de mitad izquierda: 12.1
+Suma de mitad izquierda: 5.2
+Suma de mitad derecha: 5.4
+Suma de mitad derecha: 10.600000000000001
+Suma de mitad derecha: 22.700000000000003
+Suma de mitad izquierda: 48.1
+Suma de mitad izquierda: 6.1
+Suma de mitad derecha: 9.0
+Suma de mitad izquierda: 15.1
+Suma de mitad izquierda: 7.0
+Suma de mitad derecha: 0
+Suma de mitad derecha: 7.0
+Suma de mitad izquierda: 22.1
+Suma de mitad izquierda: 0
+Suma de mitad derecha: 0
+Suma de mitad izquierda: 0
+Suma de mitad izquierda: 0
+Suma de mitad derecha: 0
+Suma de mitad derecha: 0
+Suma de mitad derecha: 0
+Suma de mitad derecha: 22.1
+Suma de mitad derecha: 70.2
+Suma total lista: 170.9
+Dividimos 170.9 entre 27
+Media final: 6.32962962962963

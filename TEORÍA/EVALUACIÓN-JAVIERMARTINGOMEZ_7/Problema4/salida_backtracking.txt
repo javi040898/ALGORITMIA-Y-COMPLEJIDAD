@@ -1,0 +1,12 @@
+Gira a la derecha desde la posicion 10 hasta la 00
+Va recto desde la posicion 11 hasta la 10
+Va recto desde la posicion 12 hasta la 11
+Gira a la derecha desde la posicion 13 hasta la 12
+Gira a la derecha desde la posicion 03 hasta la 13
+Gira a la derecha desde la posicion 02 hasta la 03
+Va recto desde la posicion 12 hasta la 02
+Va recto desde la posicion 22 hasta la 12
+Gira a la derecha desde la posicion 32 hasta la 22
+Va recto desde la posicion 33 hasta la 32
+Empieza en la posicion: 33
+Solucion encontrada
